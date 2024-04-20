@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  feed-case-study
 //
-//  Created by larissa.bernardon on 20/04/24.
+//  Created by larissa.bernardon on 21/04/24.
 //
 
 import UIKit
