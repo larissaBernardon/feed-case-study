@@ -1,14 +1,14 @@
 //
-//  feed_case_studyTests.swift
-//  feed-case-studyTests
+//  EssentialFeedTests.swift
+//  EssentialFeedTests
 //
-//  Created by larissa.bernardon on 21/04/24.
+//  Created by larissa.bernardon on 29/04/24.
 //
 
 import XCTest
-@testable import feed_case_study
+@testable import EssentialFeed
 
-final class feed_case_studyTests: XCTestCase {
+final class EssentialFeedTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
